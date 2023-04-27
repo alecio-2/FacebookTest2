@@ -14,7 +14,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 public class FacebookTestCase2 {
-    private static final Logger LOGGER = LoggerFactory.getLogger(FacebookTestCase1.class);
+    private static final Logger LOGGER = LoggerFactory.getLogger(FacebookTestCase2.class);
 
     public static void main(String[] args) throws InterruptedException {
         LOGGER.info("Starting program");
